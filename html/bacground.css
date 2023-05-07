@@ -1,0 +1,19 @@
+h1 {
+ color: red;
+ background-color: green;
+}
+
+body {
+
+ background-image: url(image/pic.webp);
+ background-repeat: no-repeat;
+ background-size: cover;
+
+
+ background-color: palevioletred;
+}
+
+p {
+ color: white;
+ font-size: large;
+}
